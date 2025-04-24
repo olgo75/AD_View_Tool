@@ -1,0 +1,3 @@
+ps2exe -inputFile <path_to_file>\AD_View_Tool.ps1 -outputFile <path_to_file>\AD_View_Tool.exe -noConsole <-iconFile <path_to_file>\<icon_name>.ico -elevated>
+-iconFile : ajouter une icône à l'application
+-elevated : pour exécuter en mode administrateur
